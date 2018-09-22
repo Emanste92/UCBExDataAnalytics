@@ -22,6 +22,7 @@ Stock Data File Completed (DropBox link)
 ##VBA Script
 
 Sub stock_vols_total():
+
     ' Defining dimensions of all variables
     Dim ws As Worksheet
     Dim stockname, stockname_next, datestring, Great_Inc_Stock, Great_Dec_Stock, Great_Tot_Stock As String
