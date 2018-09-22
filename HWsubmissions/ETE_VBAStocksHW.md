@@ -1,23 +1,25 @@
-#*VBA Assignment*   
-##Hard + Challenge Difficulty
+*VBA Assignment*   
+Hard + Challenge Difficulty
 
-##Screenshots
+Screenshots
 
 ![ETE_2014_stock](https://github.com/Emanste92/UCBExDataAnalytics/blob/master/HWsubmissions/VBA_Resources/ETE_2014_stock.PNG)
-###2014 Stock Screenshot
+2014 Stock Screenshot
 
 ![ETE_2015_stock](https://github.com/Emanste92/UCBExDataAnalytics/blob/master/HWsubmissions/VBA_Resources/ETE_2015_stock.PNG)
-###2015 Stock Screenshot
+2015 Stock Screenshot
 
 ![ETE_2016_stock](https://github.com/Emanste92/UCBExDataAnalytics/blob/master/HWsubmissions/VBA_Resources/ETE_2016_stock.PNG)
-###2016 Stock Screenshot
+2016 Stock Screenshot
 
 
-###Stock Data File Completed (DropBox link)
+
+
+Stock Data File Completed (DropBox link)
 [ETE_Multiple_year_stock_data.xlsm](https://www.dropbox.com/s/etixu426586faun/ETE_Multiple_year_stock_data_All.xlsm?dl=0)
 
 
-##VBA Script
+VBA Script
 
 Sub stock_vols_total():
     ' Defining dimensions of all variables
