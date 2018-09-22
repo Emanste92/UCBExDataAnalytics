@@ -2,13 +2,14 @@
 ##Hard + Challenge Difficulty
 
 ##Screenshots
-![ETE_2014_stock](VBA_Resources/ETE_2014_stock.png)
+
+![ETE_2014_stock](https://github.com/Emanste92/UCBExDataAnalytics/blob/master/HWsubmissions/VBA_Resources/ETE_2014_stock.PNG)
 ###2014 Stock Screenshot
 
-![ETE_2015_stock](VBA_Resources/ETE_2015_stock.png)
+![ETE_2015_stock](https://github.com/Emanste92/UCBExDataAnalytics/blob/master/HWsubmissions/VBA_Resources/ETE_2015_stock.PNG)
 ###2015 Stock Screenshot
 
-![ETE_2016_stock](VBA_Resources/ETE_2016_stock.png)
+![ETE_2016_stock](https://github.com/Emanste92/UCBExDataAnalytics/blob/master/HWsubmissions/VBA_Resources/ETE_2016_stock.PNG)
 ###2016 Stock Screenshot
 
 
